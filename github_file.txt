@@ -1,0 +1,2 @@
+A new file created in Github page
+For testing "pull" command on local environment
